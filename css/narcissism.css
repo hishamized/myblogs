@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #20222D;
+    color: white;
+}
+.narcissism-intro{
+    line-height: 2em;
+    padding: 2em;
+}
+.signs-narc{
+    line-height: 2em;
+    padding: 2em;
+}
+.signs-narc-list-item {
+    margin: 3em 0em;
+    padding: 0em 3em;
+}
+
+@media only screen and (max-width: 600px){
+    .signs-narc-list-item{
+        padding: 0em;
+    }
+}
